@@ -3,4 +3,3 @@
 <p align="center">A 3D replica of my room made with Bledner and ThreeJS.</p>
 
 <a href="https://bishwajitcadhikary.github.io/MyRoom">Try it out</a>
-# my-room
